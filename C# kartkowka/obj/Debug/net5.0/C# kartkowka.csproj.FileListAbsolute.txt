@@ -1,0 +1,16 @@
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.csproj.AssemblyReference.cache
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.GeneratedMSBuildEditorConfig.editorconfig
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.AssemblyInfoInputs.cache
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.AssemblyInfo.cs
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.csproj.CoreCompileInputs.cache
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka.deps.json
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka.runtimeconfig.json
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka.runtimeconfig.dev.json
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka.dll
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/ref/C# kartkowka.dll
+/home/ukasz/C# kartkowka/bin/Debug/net5.0/C# kartkowka.pdb
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.dll
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/ref/C# kartkowka.dll
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.pdb
+/home/ukasz/C# kartkowka/obj/Debug/net5.0/C# kartkowka.genruntimeconfig.cache
